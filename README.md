@@ -43,5 +43,5 @@ Le informazioni derivano *esclusivamente* dai dati pubblici resi disponibili dal
 ---
 
 ## 📸 Screenshot
-![Preview del bot](images/telegram-preview.png)
+![Preview del bot](https://i.nuuls.com/rzEio.png)
 
