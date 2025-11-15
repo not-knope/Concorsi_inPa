@@ -8,7 +8,7 @@ L’obiettivo è offrire un canale unico, immediato e aggiornato in tempo reale 
 
 ## 🔗 Canale Telegram
 
-➡️ **t.me/Concorsi_inPA**
+➡️ **[t.me/Concorsi_inPA](https://t.me/Concorsi_inPA)**
 
 Tutti i concorsi vengono inviati in un formato pulito con titolo, ente, sede, scadenza e link diretto al bando.
 
