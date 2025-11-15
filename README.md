@@ -36,7 +36,7 @@ Per ogni concorso vengono estratti e inviati:
 - 🗓 **Data di pubblicazione**  
 - ⏳ **Data di scadenza**  
 - 🔗 **Link al bando**  
-- ✏️ **Breve descrizione (ripulita dall’HTML)**  
+- ✏️ **Breve descrizione**  
 
 Le informazioni derivano *esclusivamente* dai dati pubblici resi disponibili dal portale.
 
